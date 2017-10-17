@@ -1,3 +1,16 @@
 @charset "utf-8";
-/* CSS Document */
-
+#Container{
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black
+}
+#heading{
+	margin-left:auto;
+	margin-right:auto;
+	height:100px;
+	background-color:lightblue;
+	text-align: center;
+	font-family: "bubbler-one";
+}
