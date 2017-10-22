@@ -6,9 +6,12 @@
 	border-style: solid;
 	border-color: black;
 	height:auto;
-	background: url("DinosaursBackground.jpg");
+	background: url("DinosaursBackgrounds.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+.borderrad{
+	border-radius:15px;
 }
 #heading{
 	margin-left:100px;
@@ -16,6 +19,15 @@
 	height:50px;
 	text-align: center;
 	font-family: "bubbler-one";
+}
+#Intermission{
+	margin-left:135px;
+	margin-right:135px;
+	border-width:medium;
+	border-style: solid;
+	border-color: black;
+	height:auto;
+	background-color:white;
 }
 #taskbar{
 	margin-left:100px;
@@ -39,18 +51,11 @@ li a{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+-->border-radius: 100px 100px<--
 }
 li a:hover{
 	background-color:violet;
 }
-
-
-
-
-
-
-
-
 #InformationBeginning{
 	margin-left:100px;
 	margin-right:100px;
@@ -59,6 +64,7 @@ li a:hover{
 	border-width: 5px;
 	border-style: solid;
 	background-color: #339933;
+	border-radius: 35px 35px;
 	}
 #InformationPermian-Triassic{
 	margin-left:100px;
@@ -68,7 +74,8 @@ li a:hover{
 	border-width:5px;
 	border-color:black;
 	background-color:Orange;
-}
+	border-radius: 35px 35px;
+	}
 #InformationTriassic{		
 	margin-left:100px;
 	margin-right:100px;
@@ -76,6 +83,7 @@ li a:hover{
 	border-color:black;
 	border-width: 5px;
 	border-style: solid;
+	border-radius: 35px 35px;
 	background-color: lightgreen;
 }
 #InformationJurassic{
@@ -86,5 +94,25 @@ li a:hover{
 	border-width: 5px;
 	border-style: solid;
 	background-color: #ff3300;	
+	border-radius: 35px 35px;
+	}
+#InformationCretaceous{
+	margin-left:100px;
+	margin-right:100px;
+	height:450px;
+	border-color:black;
+	border-width: 5px;
+	border-style: solid;
+	background-color:yellow;
+	border-radius: 35px 35px;
+	}
+#InformationCretaceous-Paleogene{
+	margin-left:100px;
+	margin-right:100px;
+	height:450px;
+	border-color:black;
+	border-width: 5px;
+	border-style: solid;
+	background-color:yellow;
+	border-radius: 35px 35px;
 }
-
