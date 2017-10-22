@@ -27,7 +27,7 @@
 	border-style: solid;
 	border-color: black;
 	height:auto;
-	background-color:white;
+	background-color:violet;
 }
 #taskbar{
 	margin-left:100px;
@@ -54,7 +54,7 @@ li a{
 -->border-radius: 100px 100px<--
 }
 li a:hover{
-	background-color:violet;
+	background-color:lightblue;
 }
 #InformationBeginning{
 	margin-left:100px;
@@ -73,7 +73,7 @@ li a:hover{
 	border-style:solid;
 	border-width:5px;
 	border-color:black;
-	background-color:Orange;
+	background-color:yellow;
 	border-radius: 35px 35px;
 	}
 #InformationTriassic{		
@@ -103,7 +103,7 @@ li a:hover{
 	border-color:black;
 	border-width: 5px;
 	border-style: solid;
-	background-color:yellow;
+	background-color:Orange;
 	border-radius: 35px 35px;
 	}
 #InformationCretaceous-Paleogene{
